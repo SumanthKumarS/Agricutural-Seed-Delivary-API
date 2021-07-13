@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162034787936",
+    "project_id": "agriculturalseedsystem",
+    "storage_bucket": "agriculturalseedsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162034787936:android:befb25a86cd747105f8505",
+        "android_client_info": {
+          "package_name": "com.example.admin.agriculturalseedsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162034787936-c24vjo1kitp0q19omp88ml8mh7791dk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN3_MHiCdM4BrzFlcV__ek0dEHW3r5grg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162034787936-c24vjo1kitp0q19omp88ml8mh7791dk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
